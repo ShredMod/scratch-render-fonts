@@ -12,6 +12,9 @@ const getFonts = function () {
         'Marker': require('base64-loader!./Knewave.ttf'),
         'Curly': require('base64-loader!./Griffy-Regular.ttf'),
         'Pixel': require('base64-loader!./Grand9K-Pixel.ttf'),
+        'Apple Kid': require('base64-loader!./apple_kid.ttf'),
+        'Determination Mono': require('base64-loader!./DTM-Mono.otf'),
+        'Pixel NES': require('base64-loader!./Pixel_NES.otf'),
         'Scratch': require('base64-loader!./Scratch.ttf')
     };
     /* eslint-enable global-require */
